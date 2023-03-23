@@ -1,3 +1,3 @@
 # wutgit
 
-Hallo Bla, Git Readme
+Dit is de demo van git
