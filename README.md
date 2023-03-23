@@ -1,3 +1,3 @@
 # wutgit
 
-Hallo Bla, Git Readme
+Hier gaan we uitleggen hoe git werrkt
